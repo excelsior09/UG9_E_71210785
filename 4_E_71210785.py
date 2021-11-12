@@ -1,5 +1,5 @@
 u = int(input("Dari Suku berapa : ")) 
-un = int(input("Suku akhir : "))
+un = int(input("Suku yang dicari : "))
 a = float(input("Angka awal : "))
 r = float(input("Rasio : "))
 
@@ -9,4 +9,6 @@ for n in range(u, un+1):
     print(suku)
 
 print('Jumlah suku ke',un, end="")
-print ("=",suku)
+print ("" ,"=",suku)
+
+# Terimakasih Salam dari binjai mudah"an benar
